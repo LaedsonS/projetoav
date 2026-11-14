@@ -75,7 +75,7 @@ Para a execução do projeto, é necessário seguir os  seguintespassos:
 
 **1. Clonar o repositório**
 
-    git clone h[ttps://github.com/usuario/projeto_tasks.git](https://github.com/LaedsonS/SICAM-LAMAC.git)
+    git clone https://github.com/abylenef-collab/projetoav.git
 
 **2. Criar o ambiente virtual**
 
@@ -138,11 +138,5 @@ Copie a chave impressa e cole no arquivo (sem aspas e sem espaços):
 
 9. Equipe 
 
-O projeto foi desenvolvido por: 
-
 - Abylene Freitas de França 
 - Ana Karolline Carneiro Souza 
-
-Instituição: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) — Campus São Gonçalo do Amarante. 
-
-Curso: Técnico Integrado ao Ensino Médio em Informática.
